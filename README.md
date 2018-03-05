@@ -1,1 +1,10 @@
-# PInfo1
+# PInfo1 - RANTERS
+
+TEAM MEMBERS: 
+
+DESCHAMPS ARTHUR: backend 
+MARTIN JEREMIE: admin sys
+CEYLAN ELIF: database
+BEAUSSART MARTIN: backend
+RUCHTI KILIAN: ui
+GIOVANNA THEO: team lead
