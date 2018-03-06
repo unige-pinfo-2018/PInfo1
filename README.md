@@ -1,10 +1,10 @@
 # PInfo1 - RANTERS
 
-TEAM MEMBERS: 
+**TEAM MEMBERS**:<br /><br />
 
-DESCHAMPS ARTHUR: backend 
-MARTIN JEREMIE: admin sys
-CEYLAN ELIF: database
-BEAUSSART MARTIN: backend
-RUCHTI KILIAN: ui
-GIOVANNA THEO: team lead
+- *GIOVANNA THEO*: team lead<br />
+- *MARTIN JEREMIE*: sys admin<br />
+- *DESCHAMPS ARTHUR*: backend<br />
+- *BEAUSSART MARTIN*: backend<br />
+- *CEYLAN ELIF*: database<br />
+- *RUCHTI KILIAN*: ui<br />
