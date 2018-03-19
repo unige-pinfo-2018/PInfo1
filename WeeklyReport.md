@@ -11,3 +11,6 @@
   - Start the Vision doc. :heavy_check_mark:
 # 18/03/18: 
   - Started the powerpoint presentation :heavy_check_mark:
+
+# 19/03/18:
+  - Finished the powerpoint presentation :heavy_check_mark:
