@@ -14,3 +14,8 @@
 
 # 19/03/18:
   - Finished the powerpoint presentation :heavy_check_mark:
+
+# 21/03/18:
+  - Remodeled the storyboards :heavy_check_mark:
+  - Updated the vision document :heavy_check_mark:
+  - Presentation update in progress
