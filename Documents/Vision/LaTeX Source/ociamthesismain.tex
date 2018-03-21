@@ -1,0 +1,122 @@
+
+\documentclass[12pt]{ociamthesis}  % default square logo 
+%\documentclass[12pt,beltcrest]{ociamthesis} % use old belt crest logo
+%\documentclass[12pt,shieldcrest]{ociamthesis} % use older shield crest logo
+
+%load any additional packages
+\usepackage{amssymb}
+\usepackage[utf8]{inputenc}
+\usepackage{subcaption}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{minted}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+ 
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
+
+\lstset{language=C++,
+                keywordstyle=\color{blue},
+                stringstyle=\color{red},
+                commentstyle=\color{green},
+                morecomment=[l][\color{magenta}]{\#}
+                morekeywords={wand}
+}
+
+
+\usepackage{lmodern, textcomp}
+\usepackage{lscape}
+%\usepackage{geometry}
+
+
+\usepackage{array}
+\usepackage{longtable}
+\newcolumntype{M}[1]{>{\raggedright}m{#1}}
+\newcolumntype{N}{>{\global\let\currentrowstyle\relax}}
+\newcolumntype{^}{>{\currentrowstyle}}
+\newcommand{\rowstyle}[1]{\gdef\currentrowstyle{#1}%
+    #1\ignorespaces
+}
+
+
+
+
+%input macros (i.e. write your own macros file called mymacros.tex 
+%and uncomment the next line)
+%\include{mymacros}
+\let\cleardoublepage\clearpage
+
+\title{\line(1,0){420}\\\textbf{U}ni\textbf{H}ub:\\ Le futur des réseaux étudiants\\\line(1,0){420}}   %note \\[1ex] is a line break in the title
+
+\author{Théo Giovanna - Deschamps Arthur - Beaussart Martin - Martin Jérémie - Ceylan Elif - Ruchti Killian}             %your name
+\college{Faculté des Sciences,\\  %your college
+Département Informatique}
+\renewcommand{\submittedtext}{}
+\degree{Document de vision}     %the degree
+\degreedate{Mars 2018}         %the degree date
+
+%end the preamble and start the document
+\begin{document}
+\def\mathbi#1{\textbf{\em #1}}
+%this baselineskip gives sufficient line spacing for an examiner to easily
+%markup the thesis with comments
+\baselineskip=18pt plus1pt
+
+%set the number of sectioning levels that get number and appear in the contents
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+
+
+\maketitle                  % create a title page from the preamble info
+%\include{dedication}        % include a dedication.tex file
+%\include{acknowlegements}   % include an acknowledgements.tex file
+\include{abstract}          % include the abstract
+
+\begin{romanpages}          % start roman page numbering
+\tableofcontents            % generate and include a table of contents
+
+\end{romanpages}            % end roman page numbering
+
+%now include the files of latex for each of the chapters etc
+\include{chapter1}
+%\include{chapter2}
+%\include{chapter3}
+%\include{chapter4}
+%\include{conclusions}
+
+%now enable appendix numbering format and include any appendices
+%\appendix
+%\include{appendix1}
+%\include{appendix2}
+
+%next line adds the Bibliography to the contents page
+
+
+\end{document}
+
