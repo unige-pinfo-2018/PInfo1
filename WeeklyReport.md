@@ -18,4 +18,8 @@
 # 21/03/18:
   - Remodeled the storyboards :heavy_check_mark:
   - Updated the vision document :heavy_check_mark:
-  - Presentation update in progress
+  - Presentation update in progress :x:
+  
+# 22/03/18:
+  - Finished the presentation :heavy_check_mark:
+  - Added more storyboards :heavy_check_mark:
