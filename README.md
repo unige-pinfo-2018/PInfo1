@@ -1,12 +1,10 @@
-# Welcome to Ranters' GitHub repository. 
-
-![HomePage](../master/Documents/Mocks/Mac/Homepage.png)
+# Welcome to Ranters' GitHub repository
 
 ![MyProfile](../master/Documents/Mocks/Mac/MyProfile.png)
 
 ![SearchQuestion](../master/Documents/Mocks/Mac/SearchQuestion.png)
 
-**TEAM MEMBERS**:<br /><br />
+# TEAM MEMBERS:
 
 - *GIOVANNA THEO*: team lead<br />
 - *MARTIN JEREMIE*: sys admin<br />
