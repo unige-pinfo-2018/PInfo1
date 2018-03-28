@@ -1,4 +1,10 @@
-# PInfo1 - RANTERS
+# Welcome to Ranters' GitHub repository. 
+
+![HomePage](../master/Documents/Mocks/Mac/Homepage.png)
+
+![MyProfile](../master/Documents/Mocks/Mac/MyProfile.png)
+
+![SearchQuestion](../master/Documents/Mocks/Mac/SearchQuestion.png)
 
 **TEAM MEMBERS**:<br /><br />
 
