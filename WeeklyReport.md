@@ -26,3 +26,7 @@
 
 # 26/03/18:
   - Started to work on JEE7-Demo :heavy_check_mark:
+
+# 29/03/18:
+  - First draft of mockups :heavy_check_mark:
+  
