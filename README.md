@@ -1,9 +1,5 @@
 # Welcome to Ranters' GitHub repository
 
-![MyProfile](../master/Documents/Mocks/Mac/MyProfile.png)
-
-![SearchQuestion](../master/Documents/Mocks/Mac/SearchQuestion.png)
-
 # TEAM MEMBERS:
 
 - *GIOVANNA THEO*: team lead<br />
