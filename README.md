@@ -1,5 +1,7 @@
 # Welcome to Ranters' GitHub repository
 
+ALPHA RELEASE ONLINE AT http://129.194.69.128:8080/#/
+
 ![Homepage](../master/Documents/Mocks/Mac/Homepage.jpg)
 
 ![MyProfile](../master/Documents/Mocks/Mac/MyProfile.jpg)
